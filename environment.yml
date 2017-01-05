@@ -9,4 +9,4 @@ dependencies:
 - pandas
 - menpo::opencv3
 - pip:
-  - tensorflow >= 0.12.0rc1
+  - tensorflow-gpu >= 0.12.0rc1
