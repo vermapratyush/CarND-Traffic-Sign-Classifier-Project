@@ -10,3 +10,4 @@ dependencies:
 - menpo::opencv3
 - pip:
   - tensorflow-gpu >= 0.12.0rc1
+  - Image
